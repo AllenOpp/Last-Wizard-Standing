@@ -1,0 +1,16 @@
+Player One
+Movement: WASD
+Place Bomb: E
+Pickup/Throw Bomb: Spacebar
+---------------------------------------------------------------
+Player Two
+Movement: Arrow Keys
+Place Bomb: Numpad 0
+Pickup/Throw Bomb: Enter
+---------------------------------------------------------------
+Player Three
+Control via Gamepad
+---------------------------------------------------------------
+Player Four
+Control via Gamepad 2
+---------------------------------------------------------------
